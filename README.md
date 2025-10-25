@@ -39,3 +39,8 @@ Raw COVID-19 data was cleaned and aggregated in **SQL** to compute key indicator
 
 ### 🏁 Summary
 A comprehensive yet streamlined demonstration of **data storytelling** — from **SQL querying** to **Tableau dashboards** — showcasing the power of analytics to reveal meaningful insights from global health data.
+
+---
+
+### 🙌 Acknowledgment
+Special thanks to **[Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)** for his clear and insightful tutorials on SQL and data visualization, which served as the foundation for this project’s learning and execution.  **[Alex The Analyst GitHub](https://github.com/AlexTheAnalyst)**
